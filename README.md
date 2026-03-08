@@ -23,7 +23,7 @@ The codebase is organized around scripts for player input, camera, HUD, weapons,
 
 In-game style preview (first-person view, AXR-160 rifle, playground environment):
 
-![Game screenshot](Screenshots/game-screenshot.png)
+![Game screenshot](./screenshot.png)
 
 *Screenshots from Unity Play mode can be added to the `Screenshots/` folder.*
 
